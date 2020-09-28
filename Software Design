@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T13:24:10.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SK5WUK10vDqmNKZpMih7" version="13.7.5" type="github" pages="2">
-  <diagram id="LRN60JEhnjrqR87dYY57" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-09-28T13:41:30.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="W7GJh0CH6B3k752fjLhy" version="13.7.5" type="github" pages="2">
+  <diagram id="LRN60JEhnjrqR87dYY57" name="Sample">
     <mxGraphModel dx="2706" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -133,7 +133,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="sRZp8ZztMPMTQKoLGiuT" name="Page-2">
+  <diagram id="sRZp8ZztMPMTQKoLGiuT" name="Wolt-exercise">
     <mxGraphModel dx="3533" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rIqLiGmPKUu8nChZYjgC-0" />
@@ -142,7 +142,7 @@
           <mxGeometry x="-400" y="40" width="730" height="280" as="geometry" />
         </mxCell>
         <mxCell id="rIqLiGmPKUu8nChZYjgC-25" value="models" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="rIqLiGmPKUu8nChZYjgC-1">
-          <mxGeometry x="-650" y="350" width="1220" height="960" as="geometry" />
+          <mxGeometry x="-650" y="350" width="1050" height="960" as="geometry" />
         </mxCell>
         <mxCell id="rIqLiGmPKUu8nChZYjgC-49" value="Customer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="rIqLiGmPKUu8nChZYjgC-1">
           <mxGeometry x="-603" y="410" width="190" height="502" as="geometry" />
